@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GuruActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <GridLayout
+            android:id="@+id/mainGrid"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="9"
+            android:alignmentMode="alignMargins"
+            android:columnCount="1"
+            android:columnOrderPreserved="false"
+            android:rowCount="4"
+            tools:targetApi="ice_cream_sandwich">
+
+
+            <android.support.v7.widget.CardView
+                android:layout_width="135dp"
+                android:layout_height="125dp"
+                android:layout_marginLeft="100dp"
+                android:layout_marginTop="10dp"
+                app:cardCornerRadius="10dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/guru" />
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="135dp"
+                android:layout_height="20dp"
+                android:layout_marginLeft="100dp"
+                android:layout_marginTop="1dp"
+                app:cardCornerRadius="10dp">
+
+            <TextView
+                android:layout_marginLeft="50dp"
+                android:textStyle="bold"
+                android:textSize="12dp"
+                android:text="GURU"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </TextView>
+
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="135dp"
+                android:layout_height="125dp"
+                android:layout_marginLeft="100dp"
+                android:layout_marginTop="10dp"
+                app:cardCornerRadius="10dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/guru" />
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="135dp"
+                android:layout_height="20dp"
+                android:layout_marginLeft="100dp"
+                android:layout_marginTop="1dp"
+                app:cardCornerRadius="10dp">
+
+                <TextView
+                    android:layout_marginLeft="50dp"
+                    android:textStyle="bold"
+                    android:textSize="12dp"
+                    android:text="STAF"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                </TextView>
+
+
+            </android.support.v7.widget.CardView>
+
+
+        </GridLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
