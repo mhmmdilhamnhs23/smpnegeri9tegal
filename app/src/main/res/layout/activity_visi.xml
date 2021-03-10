@@ -14,7 +14,7 @@
         android:layout_marginLeft="12dp"
         android:layout_marginTop="10dp"
         android:layout_marginRight="12dp"
-        android:layout_marginBottom="500dp"
+        android:layout_marginBottom="10dp"
         app:cardCornerRadius="10dp">
 
         <TextView
@@ -33,18 +33,142 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="5dp"
-            android:layout_marginTop="70dp"
+            android:layout_marginTop="50dp"
             android:layout_marginRight="12dp"
-            android:text="NPSN : 20329813"
+            android:text="Menciptakan sekolah unggul yang berwawasan lingkungan untuk mencetak "
             android:textColor="#000"
-            android:textSize="10sp"
+            android:textSize="9sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="65dp"
+            android:layout_marginRight="12dp"
+            android:text="generasi yang memiliki kecakapan hidup dengan dilandasi kebugaran jasmani,"
+            android:textColor="#000"
+            android:textSize="9sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="80dp"
+            android:layout_marginRight="12dp"
+            android:text="kecerdasan spiritual dan intelektual yang tinggi"
+            android:textColor="#000"
+            android:textSize="9sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="120dp"
+            android:layout_marginRight="12dp"
+            android:text="MISI"
+            android:textColor="#000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="160dp"
+            android:layout_marginRight="12dp"
+            android:text="1.Menciptakan sekolah yang efektif sebagai tempat belajar yang nyaman,menyenangkan,dan bermakna"
+            android:textColor="#000"
+            android:textSize="9sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="185dp"
+            android:layout_marginRight="12dp"
+            android:text="2. Melaksanakan layanan prima pendidikan yang berwawasan lingkungan,humanistik dan komprehensip."
+            android:textColor="#000"
+            android:textSize="9sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="210dp"
+            android:layout_marginRight="12dp"
+            android:text="3. Menghasilkan lulusan yang bermutu,religius,berkarakter positif,kompetitif dan memiliki kecakapan dalam hidupnya"
+            android:textColor="#000"
+            android:textSize="9sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="235dp"
+            android:layout_marginRight="12dp"
+            android:text="4. Meningkatkan rasa kecintaan terhadap lingkungan yang hijau,sehat dan indah"
+            android:textColor="#000"
+            android:textSize="9sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="260dp"
+            android:layout_marginRight="12dp"
+            android:text="5.Meningkatkan rasa kecintaan terhadap lingkungan Bahari dan tanggap bencana"
+            android:textColor="#000"
+            android:textSize="9sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="280dp"
+            android:layout_marginRight="12dp"
+            android:text="6. Melaksanakan pelestarian fungsi lingkungan hidup, pengendalian pencemaran dan kerusakan lingkungan hidup."
+            android:textColor="#000"
+            android:textSize="9sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="305dp"
+            android:layout_marginRight="12dp"
+            android:text="7. Melakukan upaya untuk memberikan kesempatan kepada pendidik dan tenaga kependidikan agar memiliki inisiatif,kreatif dan dedikasi yang tinggi dalam melaksanakan tugasnya."
+            android:textColor="#000"
+            android:textSize="9sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="340dp"
+            android:layout_marginRight="12dp"
+            android:text="8. Memiliki pendidik dan tenaga kependidikan yang dapat memberikan teladan dan melakukan tugasnya secara profesional."
+            android:textColor="#000"
+            android:textSize="9sp"
             android:textStyle="bold" />
 
 
 
 
 
-
     </android.support.v7.widget.CardView>
+
+
 
 </RelativeLayout>
