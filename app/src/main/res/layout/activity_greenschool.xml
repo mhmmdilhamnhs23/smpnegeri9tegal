@@ -8,7 +8,7 @@
 
     <LinearLayout
         android:orientation="vertical"
-        android:background="@drawable/wallpapergaleri"
+        android:background="@drawable/wallpapergreenschool"
         android:weightSum="10"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -37,7 +37,7 @@
             android:rowCount="3"
             android:alignmentMode="alignMargins"
             android:columnOrderPreserved="false"
-            android:layout_weight="8"
+            android:layout_weight="2"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:padding="14dp"
@@ -98,7 +98,7 @@
 
                         android:layout_width="match_parent"
                         android:layout_height="133dp"
-                        app:srcCompat="@drawable/greenschool2" />
+                        app:srcCompat="@drawable/greenschool5" />
 
 
                 </LinearLayout>
@@ -160,7 +160,7 @@
 
                         android:layout_width="match_parent"
                         android:layout_height="133dp"
-                        app:srcCompat="@drawable/greenschool3" />
+                        app:srcCompat="@drawable/greenschool8" />
 
 
                 </LinearLayout>
@@ -168,67 +168,6 @@
 
             </android.support.v7.widget.CardView>
 
-            <android.support.v7.widget.CardView
-                android:layout_width="0dp"
-                android:layout_height="20dp"
-                android:layout_rowWeight="1"
-                android:layout_columnWeight="1"
-                android:layout_marginLeft="16dp"
-                android:layout_marginRight="16dp"
-                android:layout_marginBottom="16dp"
-                app:cardCornerRadius="8dp"
-                app:cardElevation="8dp"
-                app:srcCompat="@drawable/logosmp">
-
-                <LinearLayout
-                    android:layout_width="118dp"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal|center_vertical"
-                    android:layout_margin="16dp"
-                    android:orientation="vertical">
-
-                    <ImageView
-
-                        android:layout_width="match_parent"
-                        android:layout_height="133dp"
-                        app:srcCompat="@drawable/greenschool3" />
-
-
-                </LinearLayout>
-
-
-            </android.support.v7.widget.CardView>
-
-            <android.support.v7.widget.CardView
-                android:layout_width="0dp"
-                android:layout_height="20dp"
-                android:layout_rowWeight="1"
-                android:layout_columnWeight="1"
-                android:layout_marginLeft="16dp"
-                android:layout_marginRight="16dp"
-                android:layout_marginBottom="16dp"
-                app:cardCornerRadius="8dp"
-                app:cardElevation="8dp"
-                app:srcCompat="@drawable/logosmp">
-
-                <LinearLayout
-                    android:layout_width="118dp"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal|center_vertical"
-                    android:layout_margin="16dp"
-                    android:orientation="vertical">
-
-                    <ImageView
-
-                        android:layout_width="match_parent"
-                        android:layout_height="133dp"
-                        app:srcCompat="@drawable/greenschool3" />
-
-
-                </LinearLayout>
-
-
-            </android.support.v7.widget.CardView>
 
 
 

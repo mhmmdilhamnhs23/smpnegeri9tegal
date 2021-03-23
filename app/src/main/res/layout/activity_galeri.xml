@@ -140,7 +140,7 @@
                     android:layout_width="95dp"
                     android:layout_height="95dp"
                     android:background="@color/white"
-                    android:src="@drawable/galerilainlain1"
+                    android:src="@drawable/lainlain1"
                     android:onClick="galerilainlain">
 
                 </ImageView>
