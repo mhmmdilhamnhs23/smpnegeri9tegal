@@ -94,7 +94,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="4dp"
-            android:text="STAF"
+            android:text="STAFF"
             android:textColor="#000"
             android:textSize="20sp"
             android:textStyle="bold" />

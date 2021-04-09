@@ -63,11 +63,11 @@
                     android:layout_margin="16dp"
                     android:orientation="vertical">
 
-                    <ImageView
-
+                    <com.zolad.zoominimageview.ZoomInImageView
                         android:layout_width="match_parent"
-                        android:layout_height="133dp"
-                        app:srcCompat="@drawable/lainlain1" />
+                        android:layout_height="121dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/lainlain1" />
 
                 </LinearLayout>
 
@@ -92,11 +92,11 @@
                     android:layout_margin="16dp"
                     android:orientation="vertical">
 
-                    <ImageView
-
+                    <com.zolad.zoominimageview.ZoomInImageView
                         android:layout_width="match_parent"
-                        android:layout_height="133dp"
-                        app:srcCompat="@drawable/lainlain2" />
+                        android:layout_height="121dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/lainlain2" />
 
                 </LinearLayout>
 
@@ -121,11 +121,11 @@
                     android:layout_margin="16dp"
                     android:orientation="vertical">
 
-                    <ImageView
-
+                    <com.zolad.zoominimageview.ZoomInImageView
                         android:layout_width="match_parent"
-                        android:layout_height="133dp"
-                        app:srcCompat="@drawable/lainlain3" />
+                        android:layout_height="121dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/lainlain3" />
 
                 </LinearLayout>
 
@@ -150,11 +150,11 @@
                     android:layout_margin="16dp"
                     android:orientation="vertical">
 
-                    <ImageView
-
+                    <com.zolad.zoominimageview.ZoomInImageView
                         android:layout_width="match_parent"
-                        android:layout_height="133dp"
-                        app:srcCompat="@drawable/lainlain4" />
+                        android:layout_height="121dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/lainlain4" />
 
                 </LinearLayout>
 

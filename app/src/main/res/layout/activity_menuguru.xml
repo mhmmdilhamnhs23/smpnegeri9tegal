@@ -30,13 +30,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="133dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/kepalasekolah" />
 
             </android.support.v7.widget.CardView>
@@ -79,13 +76,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/gurujawa1" />
 
             </android.support.v7.widget.CardView>
@@ -128,13 +122,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/gurujawa2" />
 
             </android.support.v7.widget.CardView>
@@ -177,13 +168,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/guruindo1" />
 
             </android.support.v7.widget.CardView>
@@ -226,13 +214,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/guruindo2" />
 
             </android.support.v7.widget.CardView>
@@ -275,13 +260,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/guruindo3" />
 
             </android.support.v7.widget.CardView>
@@ -324,13 +306,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/guruinggris1" />
 
             </android.support.v7.widget.CardView>
@@ -373,13 +352,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/guruinggris2" />
 
             </android.support.v7.widget.CardView>
@@ -422,13 +398,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/guruinggris3" />
 
             </android.support.v7.widget.CardView>
@@ -471,13 +444,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/gurubk1" />
 
             </android.support.v7.widget.CardView>
@@ -520,13 +490,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/gurubk2" />
 
             </android.support.v7.widget.CardView>
@@ -569,13 +536,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/gurubk3" />
 
             </android.support.v7.widget.CardView>
@@ -618,13 +582,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/guruipa1" />
 
             </android.support.v7.widget.CardView>
@@ -667,13 +628,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/guruipa2" />
 
             </android.support.v7.widget.CardView>
@@ -716,13 +674,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/guruipa3" />
 
             </android.support.v7.widget.CardView>
@@ -765,13 +720,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/guruipa4" />
 
             </android.support.v7.widget.CardView>
@@ -814,13 +766,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/guruips1" />
 
             </android.support.v7.widget.CardView>
@@ -863,13 +812,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/guruips2" />
 
             </android.support.v7.widget.CardView>
@@ -912,13 +858,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/guruips3" />
 
             </android.support.v7.widget.CardView>
@@ -961,13 +904,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/gurumtk1" />
 
             </android.support.v7.widget.CardView>
@@ -1010,13 +950,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/gurumtk2" />
 
             </android.support.v7.widget.CardView>
@@ -1059,13 +996,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/gurumtk3" />
 
             </android.support.v7.widget.CardView>
@@ -1108,13 +1042,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/gurumtk4" />
 
             </android.support.v7.widget.CardView>
@@ -1157,13 +1088,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/gurupai1" />
 
             </android.support.v7.widget.CardView>
@@ -1207,13 +1135,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/gurupai2" />
 
             </android.support.v7.widget.CardView>
@@ -1256,13 +1181,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/gurupai3" />
 
             </android.support.v7.widget.CardView>
@@ -1305,13 +1227,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/gurupjok1" />
 
             </android.support.v7.widget.CardView>
@@ -1354,13 +1273,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/gurupjok2" />
 
             </android.support.v7.widget.CardView>
@@ -1403,13 +1319,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/gurupkn1" />
 
             </android.support.v7.widget.CardView>
@@ -1452,13 +1365,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/gurupkn2" />
 
             </android.support.v7.widget.CardView>
@@ -1501,13 +1411,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/guruprakarya" />
 
             </android.support.v7.widget.CardView>
@@ -1550,13 +1457,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/gurusbk" />
 
             </android.support.v7.widget.CardView>
@@ -1599,13 +1503,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/gurutik" />
 
             </android.support.v7.widget.CardView>

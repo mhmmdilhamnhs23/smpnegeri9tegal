@@ -6,15 +6,37 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <ImageView
+    <ViewFlipper
+        android:id="@+id/viewFlipper"
         android:layout_width="match_parent"
-        android:layout_height="195dp"
-        android:background="@drawable/wallpapersmp">
-    </ImageView>
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="195dp"
+            android:background="@drawable/wallpapersmp">
+        </ImageView>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="195dp"
+            android:background="@drawable/walpapersmp2">
+        </ImageView>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="195dp"
+            android:background="@drawable/wallpapersmp3">
+        </ImageView>
+
+    </ViewFlipper>
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
+
+
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -22,6 +44,8 @@
             android:layout_weight="1"
             android:gravity="center"
             android:orientation="vertical">
+
+
 
             <ImageView
                 android:layout_width="60dp"
@@ -36,16 +60,15 @@
                 android:text="SMPN 9 TEGAL"
                 android:textColor="@color/white"
                 android:textSize="40dp"
-                android:textStyle="bold">
-            </TextView>
+                android:textStyle="bold"></TextView>
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Bersama Kita Membangun Yang Maju"
                 android:textColor="@color/white"
                 android:textSize="15dp"
-                android:textStyle="bold">
-            </TextView>
+                android:textStyle="bold"></TextView>
         </LinearLayout>
 
         <LinearLayout

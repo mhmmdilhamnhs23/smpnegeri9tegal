@@ -57,17 +57,17 @@
             app:srcCompat="@drawable/logosmp">
 
             <LinearLayout
-                android:layout_width="118dp"
+                android:layout_width="130dp"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal|center_vertical"
                 android:layout_margin="16dp"
                 android:orientation="vertical">
 
-                <ImageView
-
-                    android:layout_width="match_parent"
-                    android:layout_height="133dp"
-                    app:srcCompat="@drawable/silat1" />
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/silat1" />
 
 
             </LinearLayout>
@@ -87,17 +87,47 @@
             app:srcCompat="@drawable/logosmp">
 
             <LinearLayout
-                android:layout_width="118dp"
+                android:layout_width="130dp"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal|center_vertical"
                 android:layout_margin="16dp"
                 android:orientation="vertical">
 
-                <ImageView
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/silat2" />
 
-                    android:layout_width="match_parent"
-                    android:layout_height="133dp"
-                    app:srcCompat="@drawable/silat2" />
+
+            </LinearLayout>>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="0dp"
+            android:layout_height="20dp"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="8dp"
+            app:srcCompat="@drawable/logosmp">
+
+            <LinearLayout
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:layout_margin="16dp"
+                android:orientation="vertical">
+
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/silat3" />
 
 
             </LinearLayout>
@@ -117,47 +147,17 @@
             app:srcCompat="@drawable/logosmp">
 
             <LinearLayout
-                android:layout_width="118dp"
+                android:layout_width="130dp"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal|center_vertical"
                 android:layout_margin="16dp"
                 android:orientation="vertical">
 
-                <ImageView
-
-                    android:layout_width="match_parent"
-                    android:layout_height="133dp"
-                    app:srcCompat="@drawable/silat3" />
-
-
-            </LinearLayout>
-
-        </android.support.v7.widget.CardView>
-
-        <android.support.v7.widget.CardView
-            android:layout_width="0dp"
-            android:layout_height="20dp"
-            android:layout_rowWeight="1"
-            android:layout_columnWeight="1"
-            android:layout_marginLeft="16dp"
-            android:layout_marginRight="16dp"
-            android:layout_marginBottom="16dp"
-            app:cardCornerRadius="8dp"
-            app:cardElevation="8dp"
-            app:srcCompat="@drawable/logosmp">
-
-            <LinearLayout
-                android:layout_width="118dp"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal|center_vertical"
-                android:layout_margin="16dp"
-                android:orientation="vertical">
-
-                <ImageView
-
-                    android:layout_width="match_parent"
-                    android:layout_height="133dp"
-                    app:srcCompat="@drawable/silat4" />
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="135dp"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/silat4" />
 
 
             </LinearLayout>

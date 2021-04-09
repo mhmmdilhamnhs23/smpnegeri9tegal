@@ -63,11 +63,11 @@
                     android:layout_margin="16dp"
                     android:orientation="vertical">
 
-                    <ImageView
-
+                    <com.zolad.zoominimageview.ZoomInImageView
                         android:layout_width="match_parent"
                         android:layout_height="133dp"
-                        app:srcCompat="@drawable/upacara1" />
+                        android:scaleType="fitXY"
+                        android:src="@drawable/upacara1" />
 
                 </LinearLayout>
 
@@ -92,11 +92,11 @@
                     android:layout_margin="16dp"
                     android:orientation="vertical">
 
-                    <ImageView
-
+                    <com.zolad.zoominimageview.ZoomInImageView
                         android:layout_width="match_parent"
                         android:layout_height="133dp"
-                        app:srcCompat="@drawable/upacara2" />
+                        android:scaleType="fitXY"
+                        android:src="@drawable/upacara2" />
 
                 </LinearLayout>
 
@@ -121,11 +121,11 @@
                     android:layout_margin="16dp"
                     android:orientation="vertical">
 
-                    <ImageView
-
+                    <com.zolad.zoominimageview.ZoomInImageView
                         android:layout_width="match_parent"
                         android:layout_height="133dp"
-                        app:srcCompat="@drawable/upacara5" />
+                        android:scaleType="fitXY"
+                        android:src="@drawable/upacara5" />
 
                 </LinearLayout>
 
@@ -150,11 +150,11 @@
                     android:layout_margin="16dp"
                     android:orientation="vertical">
 
-                    <ImageView
-
-                        android:layout_width="match_parent"
-                        android:layout_height="133dp"
-                        app:srcCompat="@drawable/upacara4" />
+                    <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/upacara4" />
 
                 </LinearLayout>
 

@@ -29,13 +29,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/fslmushola" />
 
 
@@ -109,13 +106,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/fslkantin" />
 
 
@@ -190,13 +184,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/fslkelas" />
 
 
@@ -270,13 +261,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/fslaula" />
 
 
@@ -351,13 +339,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/fsllapangan" />
 
 
@@ -432,13 +417,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/fsllebkom" />
 
 
@@ -513,13 +495,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/fslperpus" />
 
 
@@ -594,13 +573,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/fsltaman1" />
 
 
@@ -675,13 +651,10 @@
                 android:layout_marginTop="10dp"
                 app:cardCornerRadius="10dp" >
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="1dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="130dp"
+                    android:scaleType="fitXY"
                     android:src="@drawable/fsltoilet1" />
 
 

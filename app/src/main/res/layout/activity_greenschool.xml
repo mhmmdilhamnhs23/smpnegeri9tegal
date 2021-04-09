@@ -63,11 +63,11 @@
                     android:layout_margin="16dp"
                     android:orientation="vertical">
 
-                    <ImageView
-
+                    <com.zolad.zoominimageview.ZoomInImageView
                         android:layout_width="match_parent"
-                        android:layout_height="133dp"
-                        app:srcCompat="@drawable/greenschool1" />
+                        android:layout_height="wrap_content"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/greenschool1" />
 
 
                 </LinearLayout>
@@ -94,11 +94,11 @@
                     android:layout_margin="16dp"
                     android:orientation="vertical">
 
-                    <ImageView
-
+                    <com.zolad.zoominimageview.ZoomInImageView
                         android:layout_width="match_parent"
-                        android:layout_height="133dp"
-                        app:srcCompat="@drawable/greenschool5" />
+                        android:layout_height="wrap_content"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/greenschool5" />
 
 
                 </LinearLayout>
@@ -125,11 +125,11 @@
                     android:layout_margin="16dp"
                     android:orientation="vertical">
 
-                    <ImageView
-
+                    <com.zolad.zoominimageview.ZoomInImageView
                         android:layout_width="match_parent"
-                        android:layout_height="133dp"
-                        app:srcCompat="@drawable/greenschool3" />
+                        android:layout_height="wrap_content"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/greenschool3" />
 
 
                 </LinearLayout>
@@ -156,11 +156,11 @@
                     android:layout_margin="16dp"
                     android:orientation="vertical">
 
-                    <ImageView
-
+                    <com.zolad.zoominimageview.ZoomInImageView
                         android:layout_width="match_parent"
-                        android:layout_height="133dp"
-                        app:srcCompat="@drawable/greenschool8" />
+                        android:layout_height="wrap_content"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/greenschool8" />
 
 
                 </LinearLayout>

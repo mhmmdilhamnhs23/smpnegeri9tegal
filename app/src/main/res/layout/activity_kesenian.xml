@@ -63,11 +63,11 @@
                     android:layout_margin="16dp"
                     android:orientation="vertical">
 
-                    <ImageView
-
+                    <com.zolad.zoominimageview.ZoomInImageView
                         android:layout_width="match_parent"
                         android:layout_height="133dp"
-                        app:srcCompat="@drawable/kesenian1" />
+                        android:scaleType="fitXY"
+                        android:src="@drawable/kesenian1" />
 
                 </LinearLayout>
 
@@ -93,11 +93,11 @@
                     android:layout_margin="16dp"
                     android:orientation="vertical">
 
-                    <ImageView
-
+                    <com.zolad.zoominimageview.ZoomInImageView
                         android:layout_width="match_parent"
                         android:layout_height="133dp"
-                        app:srcCompat="@drawable/kesenian2" />
+                        android:scaleType="fitXY"
+                        android:src="@drawable/kesenian2" />
 
                 </LinearLayout>
 
@@ -123,11 +123,11 @@
                     android:layout_margin="16dp"
                     android:orientation="vertical">
 
-                    <ImageView
-
+                    <com.zolad.zoominimageview.ZoomInImageView
                         android:layout_width="match_parent"
                         android:layout_height="133dp"
-                        app:srcCompat="@drawable/kesenian3" />
+                        android:scaleType="fitXY"
+                        android:src="@drawable/kesenian3" />
 
                 </LinearLayout>
 
@@ -153,11 +153,11 @@
                     android:layout_margin="16dp"
                     android:orientation="vertical">
 
-                    <ImageView
-
+                    <com.zolad.zoominimageview.ZoomInImageView
                         android:layout_width="match_parent"
                         android:layout_height="133dp"
-                        app:srcCompat="@drawable/kesenian10" />
+                        android:scaleType="fitXY"
+                        android:src="@drawable/kesenian10" />
 
                 </LinearLayout>
 
