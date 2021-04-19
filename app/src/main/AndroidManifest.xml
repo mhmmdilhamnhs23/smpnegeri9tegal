@@ -12,12 +12,6 @@
 
         <activity android:name=".StaffActivity" />
         <activity android:name=".MenuguruActivity" />
-        <activity android:name=".PramukaActivity" />
-        <activity android:name=".PmrActivity" />
-        <activity android:name=".SilatActivity" />
-        <activity android:name=".KarateActivity" />
-        <activity android:name=".SepakbolaActivity" />
-        <activity android:name=".HadrohActivity" />
         <activity android:name=".LainlainActivity" />
         <activity android:name=".KesenianActivity" />
         <activity android:name=".UpacaraActivity" />

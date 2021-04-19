@@ -42,8 +42,7 @@
                     android:layout_width="95dp"
                     android:layout_height="95dp"
                     android:background="@color/white"
-                    android:src="@drawable/hadroh1"
-                    android:onClick="hadroh">
+                    android:src="@drawable/hadroh1">
 
                 </ImageView>
 
@@ -60,8 +59,7 @@
                     android:layout_width="95dp"
                     android:layout_height="95dp"
                     android:background="@color/white"
-                    android:src="@drawable/karate1"
-                    android:onClick="karate">
+                    android:src="@drawable/karate1">
 
                 </ImageView>
                 <TextView
@@ -77,8 +75,7 @@
                     android:layout_width="95dp"
                     android:layout_height="95dp"
                     android:background="@color/white"
-                    android:src="@drawable/pmr1"
-                    android:onClick="pmr">
+                    android:src="@drawable/pmr1">
 
                 </ImageView>
                 <TextView
@@ -105,8 +102,7 @@
                     android:layout_width="95dp"
                     android:layout_height="95dp"
                     android:background="@color/white"
-                    android:src="@drawable/sepakbola1"
-                    android:onClick="sepakbola">
+                    android:src="@drawable/sepakbola1">
 
                 </ImageView>
 
@@ -123,8 +119,7 @@
                     android:layout_width="95dp"
                     android:layout_height="95dp"
                     android:background="@color/white"
-                    android:src="@drawable/silat1"
-                    android:onClick="silat">
+                    android:src="@drawable/silat1">
 
                 </ImageView>
                 <TextView
@@ -140,8 +135,7 @@
                     android:layout_width="95dp"
                     android:layout_height="95dp"
                     android:background="@color/white"
-                    android:src="@drawable/pramuka"
-                    android:onClick="pramuka">
+                    android:src="@drawable/pramuka1">
 
                 </ImageView>
                 <TextView
